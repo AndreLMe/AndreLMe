@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hello, Stranger 👋<h2> I am André Luiz</h2>
 
-<!--
-**AndreLMe/AndreLMe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a junior FullStack developer from Brazil 💚, 22 years. A book lover, a horrible vigeo-game player 🎮, 
+big fan of the Resident Evil franchise and a music lover 🎸.
 
-Here are some ideas to get you started:
+### 🧔🏾‍♂️ About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  - 👨🏾‍🎓 Studying Computer Science and Science & Technology at UFABC.
+  - 👨🏾‍💻 I enjoy studying reverve engineer and low level implementations
+  - 🕹 CTF player for fun
+  - 🥁 Drummer
+
+### 🛠 Tech Stack
+  
+  - ⚙️ Python | C# | PHP | C | Java | PostgreSQL
+  - 🎀 HTML | CSS | JavaScript | TypeScript | React
+  
+### 🧗🏾‍♂️ To learn
+  - 👨🏾‍🎓 Docker | Rust | Next.js | TDD | Go | MongoDB | And much more 
