@@ -12,8 +12,8 @@ big fan of the Resident Evil franchise and a music lover 🎸.
 
 ### 🛠 Tech Stack
   
-  - ⚙️ Python | C# | PHP | C | Java | PostgreSQL
+  - ⚙️ Python | C# | PHP | C | Java | PostgreSQL | Neo4j
   - 🎀 HTML | CSS | JavaScript | TypeScript | React
   
 ### 🧗🏾‍♂️ To learn
-  - 👨🏾‍🎓 Docker | Rust | Next.js | TDD | Go | MongoDB | And much more 
+  - 👨🏾‍🎓 Docker | Rust | TDD | Go | MongoDB | And much more 
