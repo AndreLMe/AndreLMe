@@ -1,6 +1,6 @@
 ### Hello, Stranger 👋🏾<h2> I am André Luiz</h2>
 
-I'm a junior FullStack developer from Brazil 💚, 23 years. A book lover, a horrible vigeo-game player 🎮, 
+I'm a junior FullStack developer from Brazil 💚, 23 years. A book lover, a horrible video-game player 🎮, 
 big fan of the Resident Evil franchise and a music lover 🎸.
 
 ### 🧔🏾‍♂️ About me
