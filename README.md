@@ -1,6 +1,6 @@
 ### Hello, Stranger 👋🏾<h2> I am André Luiz</h2>
 
-I'm a junior FullStack developer from Brazil 💚, 23 years. A book lover, a horrible video-game player 🎮, 
+I'm a FullStack developer from Brazil 💚, 24 years. A book lover, a horrible video-game player 🎮, 
 big fan of the Resident Evil franchise and a music lover 🎸.
 
 ### 🧔🏾‍♂️ About me
@@ -12,8 +12,8 @@ big fan of the Resident Evil franchise and a music lover 🎸.
 
 ### 🛠 Tech Stack
   
-  - ⚙️ Python | C# | PHP | Java | PostgreSQL | Neo4j | Kotlin | Kubernets | MongoDB
-  - 🎀 HTML | CSS | JavaScript | TypeScript | Vue
+  - ⚙️ Python | C# | PHP | Java | PostgreSQL | MySQL | Kotlin | Kubernets | MongoDB
+  - 🎀 JavaScript | TypeScript | Vue
   
 ### 🧗🏾‍♂️ To learn
   - 👨🏾‍🎓 Rust | Go | And much more 
